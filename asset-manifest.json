@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cardFool/static/css/main.84c9261c.css",
+    "main.js": "/cardFool/static/js/main.3cc7dc7f.js",
+    "static/js/453.ef0ae962.chunk.js": "/cardFool/static/js/453.ef0ae962.chunk.js",
+    "static/media/background.jpg": "/cardFool/static/media/background.2c5e63d839ee69e0c083.jpg",
+    "index.html": "/cardFool/index.html",
+    "main.84c9261c.css.map": "/cardFool/static/css/main.84c9261c.css.map",
+    "main.3cc7dc7f.js.map": "/cardFool/static/js/main.3cc7dc7f.js.map",
+    "453.ef0ae962.chunk.js.map": "/cardFool/static/js/453.ef0ae962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84c9261c.css",
+    "static/js/main.3cc7dc7f.js"
+  ]
+}
